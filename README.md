@@ -131,3 +131,8 @@ Status    : Building the impossible...
 *"Walk through the gray mist, pursue knowledge, and never stop building."*
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baiqamarabaetia/baiqamarabaetia/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
