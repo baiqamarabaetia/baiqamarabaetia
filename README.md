@@ -154,9 +154,3 @@ Status    : Building the impossible...
 
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/baiqamarabaetia/baiqamarabaetia/output/github-contribution-grid-snake-dark.svg">
-</p>
-
