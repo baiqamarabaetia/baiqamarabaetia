@@ -127,3 +127,36 @@ Status    : Building the impossible...
 <p align="center">
   <img src="https://raw.githubusercontent.com/baiqamarabaetia/baiqamarabaetia/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=baiqamarabaetia&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baiqamarabaetia&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=baiqamarabaetia&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiqamarabaetia&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/baiqamarabaetia/baiqamarabaetia/output/github-contribution-grid-snake-dark.svg">
+</p>
+
