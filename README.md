@@ -1,71 +1,133 @@
 <p align="center">
   <img src="file_0000000014dc820b9ad1e8eeba16df62.png" alt="Banner" width="100%">
 </p>
-# < baiqamarabaetia /> 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Linux+Enthusiast;Cyber+Security+Learner;Always+Learning+Something+New..." />
-</p>
+# 🃏 baiqamarabaetia
+
+### 『 The Archivist of the Gray Mist 』
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=2500&color=8A2BE2&center=true&vCenter=true&width=900&lines=Welcome+to+my+Archive;Cyber+Security+Learner;Linux+Enthusiast;Full+Stack+Developer;Building+Ideas+That+Never+Die"/>
+
+<img src="https://komarev.com/ghpvc/?username=baiqamarabaetia&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 ---
 
-## 💀 About Me
+# 🌫️ The Gray Mist
 
-```bash
-> Name      : baiqamarabaetia
-> Country   : Indonesia
-> Role       : Full Stack Developer
-> Learning   : Linux | Cyber Security | AI | Web Development
-> Status     : Building Awesome Projects...
+```yaml
+Name      : baiqamarabaetia
+Alias     : The Archivist
+Country   : Indonesia
+Role      : Full Stack Developer
+Focus     : Linux • Cyber Security • AI • Open Source
+Status    : Building the impossible...
 ```
 
 ---
 
-## ⚡ Tech Stack
+# 📜 Philosophy
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,php,java,mysql,mongodb,linux,git,github,vscode,docker,bash" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=baiqamarabaetia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=baiqamarabaetia&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baiqamarabaetia&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🚀 Current Goals
-
-- 🔥 Become Full Stack Developer
-- 🐧 Master Linux
-- 🛡 Learn Ethical Hacking
-- 🤖 Build AI Projects
-- 🌐 Create Open Source Projects
-
----
-
-## 🏆 Quote
+> "Knowledge belongs to those who dare to seek it."
 
 > "When Ideas Refuse To Die."
 
 ---
 
-## 🌎 Connect With Me
+# ⚜️ Current Pathway
 
-- GitHub : https://github.com/baiqamarabaetia
-- Email  : baiqamarabaetia@email.com
+🃏 Full Stack Development
+
+🐧 Linux
+
+🛡 Cyber Security
+
+🤖 Artificial Intelligence
+
+📚 Open Source
 
 ---
 
+# ⚡ Tech Arsenal
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=baiqamarabaetia&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,java,php,mysql,mongodb,linux,bash,docker,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=baiqamarabaetia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiqamarabaetia&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-⚡ Keep Learning • Keep Building • Never Stop Exploring ⚡
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baiqamarabaetia&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/baiqamarabaetia/baiqamarabaetia/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+🃏 Gray-Mist
+
+📜 Forbidden-Library
+
+🛡 Security-Lab
+
+🐧 Linux-Scripts
+
+🤖 AI-Archive
+
+⚙️ DevVault
+
+---
+
+# 🎯 Current Mission
+
+🔥 Become an Expert Full Stack Developer
+
+🛡 Master Ethical Hacking
+
+🐧 Master Linux
+
+🤖 Build AI Applications
+
+🌍 Contribute to Open Source
+
+---
+
+# 🕯️ Quote
+
+> "The gray fog hides countless mysteries. Every line of code reveals another."
+
+---
+
+<div align="center">
+
+### 🌌 End of Record
+
+*"Walk through the gray mist, pursue knowledge, and never stop building."*
+
+</div>
