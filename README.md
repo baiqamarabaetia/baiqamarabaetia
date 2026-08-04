@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="file_0000000014dc820b9ad1e8eeba16df62.png" alt="Banner" width="100%">
 </p>
 # < baiqamarabaetia /> 👋
 
